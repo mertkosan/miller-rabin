@@ -1,3 +1,8 @@
+"""
+author: mertkosan
+createdAt: 11/12/2017
+"""
+
 from random import randint
 import argparse
 
